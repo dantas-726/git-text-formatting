@@ -1,5 +1,6 @@
 # git-text-formatting-english
 **Some shortcuts to make your repository more organized  Basic syntax for writing and formatting (text formatting on github)**
+[portuguese version](https://github.com/dantas-726/Formatacao-texto-git)
 
 Basic syntax for writing and formatting (text formatting on github)
 
