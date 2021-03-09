@@ -45,7 +45,7 @@ git commit
 ``
 
 ** Using links: **
-This site was built using [My Steam] (https://steamcommunity.com/id/dantas726).
+This site was built using [My Steam](https://steamcommunity.com/id/dantas726).
 
 
 
@@ -73,7 +73,7 @@ and
    - First item in the nested list
      - Second item in the nested list
 
-((- or *) is directly below the first character of the text in the item above it.)
+(- or *) is directly below the first character of the text in the item above it.
 
 
 
@@ -90,7 +90,7 @@ To create a task list, enter the list items with a space character followed by [
 
 You can add emoji to your writing by typing: EMOJICODE :.
 
-[Emoji code] (https://gist.github.com/rxaviers/7360908)
+[Emoji code](https://gist.github.com/rxaviers/7360908)
 
 
 ** Add images: **
