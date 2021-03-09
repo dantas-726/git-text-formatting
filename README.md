@@ -8,24 +8,24 @@ Basic syntax for writing and formatting (text formatting on github)
 ###### SMALLER
 
 
-- Bold: ** ** or __ __ command / ctrl + b ** bold text **
+- Bold: ** ** or __ __ command / ctrl + b **bold text**
 
 
-- Italics: * * or _ _ command / ctrl + i * text is in italics *
+- Italics: * * or _ _ command / ctrl + i *text is in italics*
 
 
-- Strikethrough: ~~ ~~ ~~ wrong text ~~
+- Strikethrough: ~~ ~~  ~~wrong text~~
 
 
-- Bold and nested italics ** ** and _ _ ** This text is _extremely_ important **
+- Bold and nested italics ** ** and _ _  **This text is _extremely_ important**
 
 
-- All in bold and italics *** *** *** All this text is important ***
+- All in bold and italics *** ***  ***All this text is important***
 
 
 
 
-** Citing a text **
+**Citing a text**
 
 You can quote text with a>.
 
@@ -35,7 +35,7 @@ To paraphrase the phrase of so-and-so:
 
 
 
-** Citing the code **
+**Citing the code**
 
 Some basic Git commands are:
 ``
@@ -44,12 +44,12 @@ git add
 git commit
 ``
 
-** Using links: **
+**Using links:**
 This site was built using [My Steam](https://steamcommunity.com/id/dantas726).
 
 
 
-** Lists **
+**Lists**
 - Pedro
 - Henrique
 - Dantas
@@ -67,7 +67,7 @@ and
 3. Dantas
 
 
-** Nested lists: **
+**Nested lists:**
 
 1. First item
    - First item in the nested list
@@ -77,7 +77,7 @@ and
 
 
 
-** Task lists: **
+**Task lists:**
 
 To create a task list, enter the list items with a space character followed by []. To mark a task as complete, use [x].
 
@@ -86,14 +86,14 @@ To create a task list, enter the list items with a space character followed by [
 - [] Open Steam
 
 
-** Using emoji **
+**Using emoji**
 
 You can add emoji to your writing by typing: EMOJICODE :.
 
 [Emoji code](https://gist.github.com/rxaviers/7360908)
 
 
-** Add images: **
+**Add images:**
 go to isues and copy an image to the blank space then copy the link and paste it into readme.md
 
 
